@@ -2,3 +2,12 @@ h1 {
   color: blue;
   font-family: Arial, sans-serif;
 }
+
+.btn-cadastro {
+  padding: 10px 16px;
+  background-color: #28a745;
+  color: white;
+  font-weight: bold;
+  border-radius: 4px;
+  text-decoration: none;
+}
